@@ -32,3 +32,4 @@ A Python project using Streamlit, NLTK, regex, and pickle to screen resumes and 
 ## Notes
 - Placeholders for model and domain list; update as needed.
 - OCR requires Tesseract installed for image extraction.
+# Resume_Screener_ATS_Streamlit_NLP
